@@ -1,0 +1,6 @@
+2018-04-18 14:09:51,407 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-18 14:11:05,245 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: spring-cloud:frist-114:0.0.1-SNAPSHOT @ D:\zcp\javahomeword\frist-114\pom.xml.
+2018-04-18 14:12:18,058 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-18 14:12:18,128 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: spring-cloud:frist-114:0.0.1-SNAPSHOT @ D:\zcp\javahomeword\frist-114\pom.xml.
+2018-04-18 14:12:18,256 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-18 14:15:07,866 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using null lifecycle mapping for MavenProject: spring-cloud:frist-114:0.0.1-SNAPSHOT @ D:\zcp\javahomeword\frist-114\pom.xml.
